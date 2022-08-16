@@ -9,7 +9,7 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 
 
 ### Github Statistic
-<p align="left">
+<p align="center">
 <a href="https://github.com/riyanputraf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riyanputraf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyanputraf&layout=compact&langs_count=8&theme=algolia"/>
@@ -18,6 +18,8 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/riyan-putra-firjatullah-76406a240/">LinkedIn</a>
-- <a href="https://www.instagram.com/riyanputrafirjatullah/">Instagram</a>
-
+<p align="center">
+<a href="https://www.linkedin.com/in/riyan-putra-firjatullah-76406a240"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/riyanputrafirjatullah/?hl=id"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:riyanputrafirjatullah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
