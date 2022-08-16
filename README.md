@@ -7,6 +7,13 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 - 🌱 I’m currently learning Multi-Platform and Back-End Developer
 - 📫 How to reach me: riyanputrafirjatullah@gmail.com
 
+### Tech Stack  
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
 ### Github Statistic
 <p align="center">
