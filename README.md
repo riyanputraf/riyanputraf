@@ -5,7 +5,7 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 
 
 - 🌱 I’m currently learning Multi-Platform and Back-End Developer
-- 📫 How to reach me: www.linkedin.com/in/riyan-putra-firjatullah-76406a240
+- 📫 How to reach me: https://www.linkedin.com/in/riyan-putra-firjatullah-76406a240/
 
 
 ### Github Statistic
@@ -17,5 +17,5 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 </p>
 
 ### Reach me on
-- <a href="www.linkedin.com/in/riyan-putra-firjatullah-76406a240">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/riyan-putra-firjatullah-76406a240/">LinkedIn</a>
 - <a href="https://www.instagram.com/riyanputrafirjatullah/">Instagram</a>
