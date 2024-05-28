@@ -15,12 +15,15 @@ I am a student from the University of Muhammadiyah Malang. I have experience as 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanputraf)](https://github.com/riyanputraf/github-readme-stats)
+
 ### Github Statistic
 <p align="center">
 <a href="https://github.com/riyanputraf">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=riyanputraf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyanputraf&layout=compact&langs_count=8&theme=algolia"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyanputraf&theme=github-dark-blue&hide_border=true" />
+  
 </a>
 </p>
 
