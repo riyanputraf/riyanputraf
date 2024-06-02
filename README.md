@@ -1,10 +1,10 @@
 ### Hi there, I'm Riyan 👋
 
 
-I am a student from the University of Muhammadiyah Malang. I have experience as a laboratory assistant in the UMM informatics laboratory. I ever created simple website projects using HTML, CSS, JavaScript and PHP. Also, I ever created a website using the Laravel framework and MySql.
+Flutter mobile developer with experience in working on several projects. Experience in creating several application features, fixing bugs, and designing the appearance of the application. I am committed to building applications according to user needs. Have a great passion to have a career in the flutter developer, mobile development, and continue to gain new experience.
 
 
-- 🌱 I’m currently learning Multi-Platform and Back-End Developer
+- 🌱 I’m currently learning Kotlin Android Mobile Development
 - 📫 How to reach me: riyanputrafirjatullah@gmail.com
 
 ### Tech Stack  
