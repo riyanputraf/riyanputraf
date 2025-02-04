@@ -1,8 +1,7 @@
 ### Hi there, I'm Riyan 👋
 
 
-Flutter mobile developer with experience in working on several projects. Experience in creating several application features, fixing bugs, and designing the appearance of the application. I am committed to building applications according to user needs. Have a great passion to have a career in the flutter developer, mobile development, and continue to gain new experience.
-
+Passionate mobile developer dedicated to building dynamic and high-quality applications that cater to both user and business needs. Focuses on clean, efficient code, seamless user experiences, and ensuring optimal functionality and reliability. A proactive learner always staying up-to-date with emerging technologies and best practices. Committed to rigorous testing and continuous improvement with a strong drive for personal and professional growth. Eager to contribute to and thrive in diverse mobile development environments.
 
 - 🌱 I’m currently learning Kotlin Android Mobile Development
 - 📫 How to reach me: riyanputrafirjatullah@gmail.com
